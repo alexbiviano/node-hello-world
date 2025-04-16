@@ -1,5 +1,2 @@
-console.log(procecess.argv);
+console.log("Hello Boolean");
 
-const world = process.argv[2];
-
-console.log(`Hello ${world}`);
